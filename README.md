@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Javier Medina👋
 
 <!--
 **elboop86/elboop86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Formación:
+
+-Curso Programador full Stack Tokio school. (2021-2023)
+  -HTML, CSS, JAVASCRIPT, JAVA Y SPRING
+-Curso programación con Java y Spring (Fundación Adecco)  215H, 2023.
+  -GITHUB

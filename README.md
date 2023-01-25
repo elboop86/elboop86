@@ -21,3 +21,5 @@ Formación:
   -HTML, CSS, JAVASCRIPT, JAVA Y SPRING
 -Curso programación con Java y Spring (Fundación Adecco)  215H, 2023.
   -GITHUB
+
+[Linkedin] (http://www.linkedin.com/in/javier-medina-cabrerizo-993a53141)
